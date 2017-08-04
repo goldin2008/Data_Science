@@ -1,3 +1,5 @@
 # Data Analysis with Python
 
-### Top 20 Open Data sources
+### Unsupervised Feature Learning and Deep Learning Tutorial
+
+http://deeplearning.stanford.edu/tutorial/
